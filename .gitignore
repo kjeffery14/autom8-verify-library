@@ -96,3 +96,13 @@ ENV/
 
 # Test Script
 test.py
+
+# archive files
+*.zip
+*.gz
+*.tar
+*.tar.gz
+*.tgz
+*.bz2
+*.rar
+*.7z
